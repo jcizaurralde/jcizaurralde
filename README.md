@@ -1,7 +1,7 @@
 ## Hola ! 👋 soy Juan Cruz 😄
 
-Desarrollador Junior 💻 Web || Mobile
-Estudiante Analista Funcional de sistemas de información ⚡
+* Desarrollador Junior 💻 Web || Mobile
+* Estudiante Analista Funcional de sistemas de información ⚡
 
 #### Skills:
 
