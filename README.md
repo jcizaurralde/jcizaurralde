@@ -1,9 +1,9 @@
-### Hola ! 👋 soy Juan Cruz 😄
+## Hola ! 👋 soy Juan Cruz 😄
 
 Desarrollador Junior 💻 Web || Mobile
 Estudiante Analista Funcional de sistemas de información ⚡
 
-# Skills:
+#### Skills:
 
 ✨ HTML
 ✨ CSS
@@ -11,13 +11,13 @@ Estudiante Analista Funcional de sistemas de información ⚡
 ✨ jQuery
 ✨ Framework 7
 
-# Aprendiendo:
+#### Aprendiendo:
 
 ✨ Python
 ✨ Angular
 ✨ React
 ✨ Typescript
 
-# Proyectos personales:
+#### Proyectos personales:
 
 ⚽ Hay Equipo ➡️ Trabajando en ello
