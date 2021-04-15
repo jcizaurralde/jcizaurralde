@@ -1,4 +1,4 @@
-! [Imagen de encabezado] (https://drive.google.com/file/d/14oeW6v8H5JegJ2UdtHrb6A60WLdVCWAY/view?usp=sharing)
+! [Imagen de encabezado] (/C:\Users\USUARIO\Desktop\NO BORRAR/EncabezadoGit.png)
 ## Hola ! 👋 soy Juan Cruz 😄
 
 * Desarrollador Junior 💻 Web || Mobile
