@@ -1,5 +1,3 @@
-! [Imagen de encabezado] (/C:\Users\USUARIO\Desktop\NO BORRAR/EncabezadoGit.png)
-Format: ![Alt Text](url)
 ## Hola ! 👋 soy Juan Cruz 😄
 
 * Desarrollador Junior 💻 Web || Mobile
