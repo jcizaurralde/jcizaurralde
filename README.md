@@ -1,3 +1,5 @@
+![EncabezadoGit](https://user-images.githubusercontent.com/70444698/115155387-24cd5480-a056-11eb-9c86-820d467a40b5.png)
+
 ## Hola ! 👋 soy Juan Cruz 😄
 
 * Desarrollador Junior 💻 Web || Mobile
